@@ -1,6 +1,6 @@
 {
   "title": "Britannia Passenger Information",
-  "updated": "2026-10-19 — V2 passenger guidance",
+  "updated": "2026-10-19 — V3 passenger guidance and final checks",
   "sections": [
     {
       "heading": "Welcome aboard Britannia",
@@ -53,6 +53,22 @@
     {
       "heading": "Offline use and backups",
       "body": "Open the app while connected before sailing. Your planner and checklist are stored on this device; they are not automatically shared across devices. Download a backup from Settings before changing phones or clearing browser data. External P&O links require internet access."
+    },
+    {
+      "heading": "Your first day aboard",
+      "body": "Keep your boarding documents and essential medication in hand luggage. Once aboard, locate your cabin, check the ship’s official muster instructions and review the daily programme. Save your cabin details in Ship & Cabin."
+    },
+    {
+      "heading": "Useful Britannia venue planning",
+      "body": "For Headliners Theatre and The Live Lounge, check the onboard daily programme for showtimes. For speciality dining such as Sindhu, The Epicurean and The Glass House, check availability, booking arrangements and prices onboard. Venue offerings may change."
+    },
+    {
+      "heading": "Keeping personal records safe",
+      "body": "Before a major app update, use Settings to create a backup. The app stores your planner, packing ticks and spending entries locally in this browser. Do not clear site data unless you have saved a backup elsewhere."
+    },
+    {
+      "heading": "Share the Britannia guide",
+      "body": "Open Share App to copy the current Britannia website address or display its QR code. The QR code links to https://elevor360.github.io/Elevor360D-Britannia-Cruise-Companion/ and requires internet access for first-time visitors."
     }
   ]
 }

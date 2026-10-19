@@ -14,3 +14,5 @@ Data storage is separate from Ventura. Backup/restore is Britannia-specific. The
 After extracting, scan the folder with Windows Defender. Check menus, PDF printing, planner, packing, offline reload, information updates and QR sharing. No antivirus or device tests were run by the builder.
 
 V2: Expanded passenger guidance and venue directory. Preserves Britannia V1 local data and share QR. Upload all files to the existing repository. Scan before use.
+
+V3: Expanded first-day, onboard planning, personal-data safety and sharing guidance. Updated versioned asset requests and service-worker cache. Existing local storage keys unchanged. This is a customer test build; validate on device and scan with Defender.
