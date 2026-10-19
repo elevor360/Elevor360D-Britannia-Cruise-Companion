@@ -1,6 +1,12 @@
 'use strict';
-const CACHE_NAME='elevor360d-britannia-static-v4';
-const OFFLINE_FILES=['./','./index.html','./style.css?v=britannia4','./app.js?v=britannia4','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=britannia4','./advert-settings.json','./share-qr.png'];
-self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE_NAME).then(c=>c.addAll(OFFLINE_FILES)).then(()=>self.skipWaiting())));
-self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('elevor360d-britannia-static-')&&k!==CACHE_NAME).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
-self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==self.location.origin)return;e.respondWith(fetch(e.request).catch(()=>caches.match(e.request)));});
+const CACHE_NAME = 'elevor360d-britannia-static-v5';
+const PREFIX = 'elevor360d-britannia-static-';
+const OFFLINE_FILES = ['./','./index.html','./style.css?v=britannia5','./app.js?v=britannia5','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=britannia5','./advert-settings.json','./share-qr.png'];
+self.addEventListener('install',event => event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(OFFLINE_FILES)).then(() => self.skipWaiting())));
+self.addEventListener('activate',event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE_NAME).map(key => caches.delete(key)))).then(() => self.clients.claim())));
+self.addEventListener('fetch',event => {
+  if (event.request.method !== 'GET') return;
+  const url = new URL(event.request.url);
+  if (url.origin !== self.location.origin || !url.pathname.startsWith(new URL('./',self.registration.scope).pathname)) return;
+  event.respondWith(fetch(event.request).catch(() => caches.match(event.request).then(response => response || (event.request.mode === 'navigate' ? caches.match('./index.html') : undefined))));
+});

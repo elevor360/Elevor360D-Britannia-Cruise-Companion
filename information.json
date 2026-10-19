@@ -1,6 +1,6 @@
 {
   "title": "Britannia Passenger Information",
-  "updated": "2026-10-19 — V4 passenger quick reference",
+  "updated": "2026-10-19 — V5 final release candidate",
   "sections": [
     {
       "heading": "Welcome aboard Britannia",
@@ -89,6 +89,10 @@
     {
       "heading": "Troubleshooting updates",
       "body": "If published information seems old, connect to the internet and press Check for information updates. Refresh the app after GitHub updates. Do not clear site storage to fix an update without exporting a backup first."
+    },
+    {
+      "heading": "Before you share this app",
+      "body": "Check the Britannia app QR code and Share App link point to https://elevor360.github.io/Elevor360D-Britannia-Cruise-Companion/ . For offline use, open the app while connected before going to sea. Download a personal backup in Settings before changing phones or clearing browser data."
     }
   ]
 }
