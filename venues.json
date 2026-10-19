@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Meridian Restaurant",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Main dining restaurant; confirm current dining arrangements onboard."
+  },
+  {
+    "name": "Peninsular Restaurant",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Main dining restaurant; confirm your allocated dining arrangements."
+  },
+  {
+    "name": "Oriental Restaurant",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Main dining restaurant; check your booking and daily programme."
+  },
+  {
+    "name": "Horizon Restaurant",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Casual buffet dining; check opening times onboard."
+  },
+  {
+    "name": "Sindhu",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Indian-inspired speciality dining; reservations and extra charges may apply."
+  },
+  {
+    "name": "The Glass House",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Wine-focused dining venue; selected food and drinks cost extra."
+  },
+  {
+    "name": "The Epicurean",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Speciality fine dining; booking and supplements may apply."
+  },
+  {
+    "name": "The Limelight Club",
+    "category": "Entertainment",
+    "deck": "Check current Britannia deck plan",
+    "description": "Supper-club-style entertainment venue; check programme and any supplement."
+  },
+  {
+    "name": "Headliners Theatre",
+    "category": "Entertainment",
+    "deck": "Check current Britannia deck plan",
+    "description": "Theatre performances; showtimes and reservations may vary."
+  },
+  {
+    "name": "The Live Lounge",
+    "category": "Entertainment",
+    "deck": "Check current Britannia deck plan",
+    "description": "Live music and evening entertainment; see daily programme."
+  },
+  {
+    "name": "Brodie’s",
+    "category": "Bar",
+    "deck": "Check current Britannia deck plan",
+    "description": "Pub-style bar; check live sports and entertainment onboard."
+  },
+  {
+    "name": "The Crow’s Nest",
+    "category": "Bar",
+    "deck": "Check current Britannia deck plan",
+    "description": "Lounge bar with sea views; opening times vary."
+  },
+  {
+    "name": "The Blue Bar",
+    "category": "Bar",
+    "deck": "Check current Britannia deck plan",
+    "description": "Cocktail bar; check onboard drinks menu."
+  },
+  {
+    "name": "Atrium",
+    "category": "Facilities",
+    "deck": "Check current Britannia deck plan",
+    "description": "Central public area with seating and guest facilities."
+  },
+  {
+    "name": "The Retreat",
+    "category": "Wellness",
+    "deck": "Check current Britannia deck plan",
+    "description": "Adult relaxation area; access and charges may apply."
+  },
+  {
+    "name": "Oasis Spa",
+    "category": "Wellness",
+    "deck": "Check current Britannia deck plan",
+    "description": "Spa treatments and facilities; booking and charges may apply."
+  },
+  {
+    "name": "The Reef",
+    "category": "Family",
+    "deck": "Check current Britannia deck plan",
+    "description": "Children’s activity programme; check age groups and registration."
+  },
+  {
+    "name": "Pools and sun decks",
+    "category": "Pool",
+    "deck": "Check current Britannia deck plan",
+    "description": "Swimming and sunbathing areas; check current deck guide for locations."
+  },
+  {
+    "name": "Sports and fitness",
+    "category": "Activities",
+    "deck": "Check current Britannia deck plan",
+    "description": "Fitness and activities; consult onboard programme."
+  }
+]

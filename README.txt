@@ -1,0 +1,14 @@
+Elevor360D Britannia Cruise Companion V1 — customer test build
+
+Based on the user-tested Ventura V5.5 layout. Independent unofficial passenger guide.
+
+Upload all files INSIDE this ZIP to a new GitHub repository root, then enable GitHub Pages.
+Suggested repository name: Britannia-Cruise-app
+Proposed address: https://elevor360.github.io/Britannia-Cruise-app/
+IMPORTANT: QR code is preconfigured for this PROPOSED address. If your repository name differs, the QR code must be regenerated before customer release. The Share and Copy buttons use the actual page address.
+
+Ship venue list is a first-pass guide. Verify each venue, deck and facilities against current official P&O information before publishing to customers. The overview URL should also be tested in browser.
+
+Data storage is separate from Ventura. Backup/restore is Britannia-specific. The advertising manager edits advert-settings.json and information.json in the same way as Ventura.
+
+After extracting, scan the folder with Windows Defender. Check menus, PDF printing, planner, packing, offline reload, information updates and QR sharing. No antivirus or device tests were run by the builder.

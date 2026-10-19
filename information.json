@@ -1,0 +1,38 @@
+{
+  "title": "Britannia Passenger Information",
+  "updated": "2026-10-19 — initial Britannia V1 guide",
+  "sections": [
+    {
+      "heading": "Welcome aboard Britannia",
+      "body": "Independent Elevor360D passenger guide. This app is not affiliated with P&O Cruises. Information is for planning only; follow onboard announcements and crew instructions."
+    },
+    {
+      "heading": "Official ship information",
+      "body": "P&O Cruises Britannia ship overview (internet required): https://www.pocruises.com/cruise-ships/britannia/overview\nUse the deck plans accessible from the official ship information to confirm cabin, lift, venue and muster locations. Check the current official plan for your sailing."
+    },
+    {
+      "heading": "Finding your way",
+      "body": "Save your cabin number, deck and muster point in Ship & Cabin. The Deck Guide is a personal orientation tool, not a substitute for an official deck plan. Venue deck assignments in this first release are intentionally marked for verification."
+    },
+    {
+      "heading": "Dining",
+      "body": "Britannia dining includes main restaurants Meridian, Peninsular and Oriental, casual dining at Horizon, and speciality venues such as Sindhu, The Glass House and The Epicurean. Check the current ship programme for availability, reservations and charges."
+    },
+    {
+      "heading": "Entertainment",
+      "body": "Britannia offers theatre shows, live music and entertainment spaces including Headliners Theatre, The Live Lounge and The Limelight Club. Performances and reservations can vary by voyage."
+    },
+    {
+      "heading": "Before sailing",
+      "body": "Check your passport and travel documents, boarding time, insurance and luggage requirements. Download or open the app while online before relying on its offline features."
+    },
+    {
+      "heading": "Sea days and ports",
+      "body": "Use My Cruise to enter your own port calls, excursions and return reminders. These are personal notes only and do not replace the ship’s official all-aboard times."
+    },
+    {
+      "heading": "App information and updates",
+      "body": "Your planner, packing list and spending records are stored locally on this device. Use Settings to export a backup before clearing browser data. Information updates and adverts are published separately by the app owner and may require an internet connection."
+    }
+  ]
+}
