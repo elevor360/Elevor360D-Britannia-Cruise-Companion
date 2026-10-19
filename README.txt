@@ -12,3 +12,5 @@ Ship venue list is a first-pass guide. Verify each venue, deck and facilities ag
 Data storage is separate from Ventura. Backup/restore is Britannia-specific. The advertising manager edits advert-settings.json and information.json in the same way as Ventura.
 
 After extracting, scan the folder with Windows Defender. Check menus, PDF printing, planner, packing, offline reload, information updates and QR sharing. No antivirus or device tests were run by the builder.
+
+V2: Expanded passenger guidance and venue directory. Preserves Britannia V1 local data and share QR. Upload all files to the existing repository. Scan before use.

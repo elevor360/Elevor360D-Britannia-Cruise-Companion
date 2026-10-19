@@ -1,6 +1,6 @@
 {
   "title": "Britannia Passenger Information",
-  "updated": "2026-10-19 — initial Britannia V1 guide",
+  "updated": "2026-10-19 — V2 passenger guidance",
   "sections": [
     {
       "heading": "Welcome aboard Britannia",
@@ -33,6 +33,26 @@
     {
       "heading": "App information and updates",
       "body": "Your planner, packing list and spending records are stored locally on this device. Use Settings to export a backup before clearing browser data. Information updates and adverts are published separately by the app owner and may require an internet connection."
+    },
+    {
+      "heading": "Dining reservations and charges",
+      "body": "Main dining arrangements may be assigned or flexible depending on your booking. Speciality restaurants and some experiences may require reservations and additional payment. Check the P&O Cruises app or onboard staff for the latest availability, menus, opening times and prices."
+    },
+    {
+      "heading": "Shows and evening entertainment",
+      "body": "Check the daily onboard programme for Headliners Theatre performances, live music, guest acts and activities. Some experiences may require booking. Add your plans to My Cruise and allow time to reach the venue."
+    },
+    {
+      "heading": "Cabin and deck navigation",
+      "body": "Save your cabin number and deck in Ship & Cabin. For lifts, stairs, accessible routes and cabin locations use the official Britannia deck plan. Never rely on this unofficial guide for emergency routes or muster instructions."
+    },
+    {
+      "heading": "Going ashore safely",
+      "body": "Record your port and excursion plans, but always use the ship’s official all-aboard time and local-time instructions. Carry any required travel documents and follow crew guidance. Your personal reminders in this app are not official notifications."
+    },
+    {
+      "heading": "Offline use and backups",
+      "body": "Open the app while connected before sailing. Your planner and checklist are stored on this device; they are not automatically shared across devices. Download a backup from Settings before changing phones or clearing browser data. External P&O links require internet access."
     }
   ]
 }

@@ -112,5 +112,35 @@
     "category": "Activities",
     "deck": "Check current Britannia deck plan",
     "description": "Fitness and activities; consult onboard programme."
+  },
+  {
+    "name": "Java Café",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Coffee and light refreshments; check onboard opening times and prices."
+  },
+  {
+    "name": "Market Café",
+    "category": "Dining",
+    "deck": "Check current Britannia deck plan",
+    "description": "Café-style food and treats; check current onboard offerings."
+  },
+  {
+    "name": "Sunset Bar",
+    "category": "Bar",
+    "deck": "Check current Britannia deck plan",
+    "description": "Outdoor drinks venue; availability depends on weather and sailing."
+  },
+  {
+    "name": "The Crystal Room",
+    "category": "Entertainment",
+    "deck": "Check current Britannia deck plan",
+    "description": "Dance and event space; consult the daily onboard programme."
+  },
+  {
+    "name": "The Cookery Club",
+    "category": "Activities",
+    "deck": "Check current Britannia deck plan",
+    "description": "Cooking experiences may be offered; check reservations and supplements onboard."
   }
 ]
