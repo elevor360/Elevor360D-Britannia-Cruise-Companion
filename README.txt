@@ -16,3 +16,5 @@ After extracting, scan the folder with Windows Defender. Check menus, PDF printi
 V2: Expanded passenger guidance and venue directory. Preserves Britannia V1 local data and share QR. Upload all files to the existing repository. Scan before use.
 
 V3: Expanded first-day, onboard planning, personal-data safety and sharing guidance. Updated versioned asset requests and service-worker cache. Existing local storage keys unchanged. This is a customer test build; validate on device and scan with Defender.
+
+V4: Added practical passenger quick-reference guidance, corrected Settings version label, and refreshed asset/service-worker cache versions. Existing personal storage keys remain unchanged. Scan with Defender and test on device.

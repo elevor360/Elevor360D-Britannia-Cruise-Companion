@@ -1,6 +1,6 @@
 {
   "title": "Britannia Passenger Information",
-  "updated": "2026-10-19 — V3 passenger guidance and final checks",
+  "updated": "2026-10-19 — V4 passenger quick reference",
   "sections": [
     {
       "heading": "Welcome aboard Britannia",
@@ -69,6 +69,26 @@
     {
       "heading": "Share the Britannia guide",
       "body": "Open Share App to copy the current Britannia website address or display its QR code. The QR code links to https://elevor360.github.io/Elevor360D-Britannia-Cruise-Companion/ and requires internet access for first-time visitors."
+    },
+    {
+      "heading": "Before you leave your cabin",
+      "body": "Check your cabin key, phone, any required documents and the ship’s daily programme. For port days, confirm the official all-aboard time and whether ship time differs from local time."
+    },
+    {
+      "heading": "Dining and show planning",
+      "body": "Use My Cruise to save the date and time of any restaurant reservation, theatre performance or excursion. The app does not make reservations or receive live schedule updates."
+    },
+    {
+      "heading": "Accessibility and getting around",
+      "body": "For step-free routes, accessible lifts and assistance, consult the official deck plan and ship staff. Do not rely on saved notes for safety-critical directions."
+    },
+    {
+      "heading": "What works without internet",
+      "body": "After opening the app online, you can use locally saved personal plans, packing items and spending records offline on the same device. External P&O links and newly published information or adverts require a connection."
+    },
+    {
+      "heading": "Troubleshooting updates",
+      "body": "If published information seems old, connect to the internet and press Check for information updates. Refresh the app after GitHub updates. Do not clear site storage to fix an update without exporting a backup first."
     }
   ]
 }
