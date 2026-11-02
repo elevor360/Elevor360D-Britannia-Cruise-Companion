@@ -1,7 +1,7 @@
 'use strict';
-const CACHE_NAME = 'elevor360d-britannia-static-v5';
+const CACHE_NAME = 'elevor360d-britannia-static-v6-ads';
 const PREFIX = 'elevor360d-britannia-static-';
-const OFFLINE_FILES = ['./','./index.html','./style.css?v=britannia5','./app.js?v=britannia5','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=britannia5','./advert-settings.json','./share-qr.png'];
+const OFFLINE_FILES = ['./','./index.html','./style.css?v=britannia6ads','./app.js?v=britannia6ads','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=britannia6ads','./advert-settings.json','./share-qr.png','./advertising.js?v=britannia6ads','./ad-config.json','./advertising/adverts.json','./advertising/images/elevor360d-promo.jpg'];
 self.addEventListener('install',event => event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(OFFLINE_FILES)).then(() => self.skipWaiting())));
 self.addEventListener('activate',event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE_NAME).map(key => caches.delete(key)))).then(() => self.clients.claim())));
 self.addEventListener('fetch',event => {
